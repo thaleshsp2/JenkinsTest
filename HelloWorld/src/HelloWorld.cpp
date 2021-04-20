@@ -6,6 +6,6 @@
 #include <iostream>
 int main()
 {
-    std::cout << "Hello Jenkins from Brazil" << std::endl;
+    std::cout << "Cole galera, só queria dizer q o Jenkins ta rolando!" << std::endl;
     return 0;
 }
