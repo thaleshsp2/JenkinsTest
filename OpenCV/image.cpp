@@ -22,8 +22,8 @@ int main(int argc, char **argv)
         return -1;
     }
     cout << "Before show" << endl;
-    namedWindow("Display window", WINDOW_AUTOSIZE); // Create a window for display.
-    imshow("Display window", image);                // Show our image inside it.
+    //namedWindow("Display window", WINDOW_AUTOSIZE); // Create a window for display.
+    //imshow("Display window", image);                // Show our image inside it.
     cout << "After show" << endl;
     //waitKey(0); // Wait for a keystroke in the window
     return 0;
