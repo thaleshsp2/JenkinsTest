@@ -6,5 +6,5 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(HelloWorld)
 
 add_executable(JenkinsTest
-        HelloWorld/HelloWorld.cpp
-        HelloWorld/HelloWorld.h)
+        HelloWorld/src/HelloWorld.cpp
+        HelloWorld/src/HelloWorld.h)
