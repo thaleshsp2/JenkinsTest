@@ -8,6 +8,6 @@
 int main()
 {
     std::cout << "Cole galera, só queria dizer q o Jenkins ta rolando!" << std::endl;
-    assert(1 > 2);
+    assert(2 > 1);
     return 0;
 }
