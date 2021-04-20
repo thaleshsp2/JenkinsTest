@@ -26,5 +26,6 @@ int main(int argc, char **argv)
     //imshow("Display window", image);                // Show our image inside it.
     cout << "After show" << endl;
     //waitKey(0); // Wait for a keystroke in the window
+    assert 1 > 2;
     return 0;
 }
