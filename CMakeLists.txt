@@ -11,5 +11,5 @@ include_directories(Boost.Test)
 #        HelloWorld/src/HelloWorld.h
 #        Boost.Test/test.cpp)
 
-add_executable(test
+add_executable(test_1
         Boost.Test/test.cpp)
